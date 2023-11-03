@@ -1,0 +1,11 @@
+rtGetInf.o: \
+ C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/Dcmotor_ert_rtw/rtGetInf.c \
+ C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/Dcmotor_ert_rtw/rtwtypes.h \
+ C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/Dcmotor_ert_rtw/rtGetInf.h \
+ C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/Dcmotor_ert_rtw/rt_nonfinite.h
+
+C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/Dcmotor_ert_rtw/rtwtypes.h:
+
+C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/Dcmotor_ert_rtw/rtGetInf.h:
+
+C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/Dcmotor_ert_rtw/rt_nonfinite.h:

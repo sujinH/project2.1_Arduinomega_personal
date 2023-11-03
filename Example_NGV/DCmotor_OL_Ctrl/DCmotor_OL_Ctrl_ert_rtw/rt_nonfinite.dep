@@ -1,0 +1,14 @@
+rt_nonfinite.o: \
+ C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rt_nonfinite.c \
+ C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rtGetNaN.h \
+ C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rtwtypes.h \
+ C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rtGetInf.h \
+ C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rt_nonfinite.h
+
+C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rtGetNaN.h:
+
+C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rtwtypes.h:
+
+C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rtGetInf.h:
+
+C:/Users/user/MATLAB/Example_NGV/DCmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/rt_nonfinite.h:
