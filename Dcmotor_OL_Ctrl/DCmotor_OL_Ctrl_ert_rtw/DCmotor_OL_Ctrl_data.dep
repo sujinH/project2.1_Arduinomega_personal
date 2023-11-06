@@ -12,9 +12,10 @@ DCmotor_OL_Ctrl_data.o: \
  C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
  C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
  C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_AnalogIn.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_SVD.h \
  C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
  C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_PWM.h \
- C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_SVD.h \
  C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_Ultrasonic.h \
  C:/Users/user/MATLAB/Dcmotor_OL_Ctrl/DCmotor_OL_Ctrl_ert_rtw/DCmotor_OL_Ctrl_types.h \
  C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_SVD.h \
@@ -48,11 +49,13 @@ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/ard
 
 C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:
 
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_AnalogIn.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_SVD.h:
+
 C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
 
 C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_PWM.h:
-
-C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/shared/svd/include/MW_SVD.h:
 
 C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_Ultrasonic.h:
 
